@@ -1,0 +1,32 @@
+
+    /* Gaya untuk kotak pencarian */
+    .search-box {
+        display: flex;
+        align-items: center;
+        margin: 20px 0;
+    }
+
+    #search-input {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 15px;
+        width: 300px;
+        font-size: 16px;
+        margin-left: 50px;
+    }
+
+    #search-button {
+        background-color: #6a924c;
+        color: #fff;
+        border: none;
+        border-radius: 15px;
+        padding: 10px 15px;
+        margin-left: 10px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    #search-button:hover {
+        background-color: #6a924c;
+    }
+
